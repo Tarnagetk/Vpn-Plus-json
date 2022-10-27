@@ -1,17 +1,15 @@
-
-
 {
    "files": [  
 
 
 {
          "name": "01. TH-DtacNoPro-Free-1",
-         "url": "https://raw.githubusercontent.com/Tarnagetk/-/main/Dtac%20.VpnPlaus.ovpn"
+         "url": "https://raw.githubusercontent.com/Tarnagetk/Vpn-Plus/main/vpnplusDtac.ovpn?token=GHSAT0AAAAAAB2KUGDG5U55RCGGQF3WSFRWY22AEBQ"
       },
 
 {
          "name": "01. TH-TrueNoPro-Free-1",
-         "url": "https://raw.githubusercontent.com/Tarnagetk/-/main/True%20.VpnPlaus.ovpn"
+         "url": "https://raw.githubusercontent.com/Tarnagetk/Vpn-Plus-json/main/vpnplusTrue.ovpn"
       },
 {
          "name": "02. TH-DtacNoPro-VIP-2",
@@ -30,11 +28,11 @@
 
 {
          "name": "03. TH-DtacNoPro-VIP-3",
-         "url": "https://raw.githubusercontent.com/Tarnagetk/-/main/%F0%9F%87%B9%F0%9F%87%AD02.TH-Dtac-VIP.ovpn"
+         "url": "https://raw.githubusercontent.com/Tarnagetk/Vpn-Plus/main/vpnplusDtac.ovpn?token=GHSAT0AAAAAAB2KUGDG5U55RCGGQF3WSFRWY22AEBQ"
       },
 {
-         "name": "03. TH-TrueNoPro-VIP-3",
-         "url": "https://raw.githubusercontent.com/Tarnagetk/-/main/%F0%9F%87%B9%F0%9F%87%AD02.TH-True-VIP.ovpn"
+         "name": "03. TH-TrueNoPro-Free-3",
+         "url": "https://raw.githubusercontent.com/Tarnagetk/Vpn-Plus-json/main/vpnplusTrue.ovpn"
       },
 {
          "name": "01. TH-AisNoPro-Free-1",
@@ -42,7 +40,7 @@
       }
 
    ],
-"message":"🚀 Update version - 7 \n•📆 Latest update - October 16 2022 \n• Thai server has been added for free. \n• Vip server can be purchased and supported. Free has ads and you can click Add Time, you can use it for 2 hours after clicking once. \n• Vip does not need to watch ads. , line is better than free.  
+"message":"🚀 Update version - 8 \n•📆 Latest update - October 16 2022 \n• ထိုင်းဆာဗာ freeထည့်ပေးထားပါတယ်။ \n• vip ဆာဗာကိုလဲ ဝယ်ယူအားပေးနိုင်ပါတယ်ခင်ဗျ။ Freeသည်‌  ကြော်ငြာပါပြီးAdd Timeကိုနှိပ်ရပါတယ် တစ်ခါနှိပ်ပြီး ၂နာရီအသုံးပြုနိုင်ပါတယ်ခင်ဗျ။ \n• Vipသည် ကြော်ငြာကြည့်စရာမလို၊ freeထက် လိုင်းအားပိုကောင်းပါတယ်ခင်ဗျ🥰🥰Buy VIPကိုနှိပ်ပြီး ဝယ်ယူနိုင်ပါတယ် \n•  Contact me👤👇\nhttps://m.me/yainlinphyo",  
    "title":"Do you want to update?",
-   "version": 7
+   "version": 8
 }
